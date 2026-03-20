@@ -97,7 +97,14 @@ The last cell in the notebook launches an interactive demo:
 - Get top 3 breed predictions with confidence scores
 - Receive a fun breed description powered by Claude (Anthropic)
 - See similar breeds from the predictions
+## 🎮 Live Demo
 
+An interactive Gradio demo is included in the last cell of the notebook.
+To launch it, run the setup cells then the last cell to get a public URL.
+
+![Gradio Demo](gradio_demo.png)
+
+Upload any dog photo → get top 3 breed predictions + breed info powered by Claude (Anthropic).
 ### Load the saved model
 
 ```python
