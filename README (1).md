@@ -97,6 +97,15 @@ The last cell in the notebook launches an interactive demo:
 - Get top 3 breed predictions with confidence scores
 - Receive a fun breed description powered by Claude (Anthropic)
 - See similar breeds from the predictions
+
+  ## Model Weights
+
+The trained model is too large to store on GitHub.  
+Download it from Hugging Face: [Megi96/MLtest](https://huggingface.co/Megi96/MLtest)
+
+## Live Demo
+
+Try the app here: [Dog Breed Classifier](https://huggingface.co/spaces/Megi96/MLtest)
 ## 🎮 Live Demo
 
 An interactive Gradio demo is included in the last cell of the notebook.
