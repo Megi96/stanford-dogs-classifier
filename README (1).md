@@ -100,7 +100,7 @@ The last cell in the notebook launches an interactive demo:
 ## 🎮 Live Demo
 
 An interactive Gradio demo is included in the last cell of the notebook.
-To launch it, run the setup cells then the last cell to get a public URL.
+To launch it, run the setup cells then the last cell to get a public URL or try it on https://huggingface.co/spaces/Megi96/MLtest
 
 ![Gradio Demo](gradio_demo.png)
 
